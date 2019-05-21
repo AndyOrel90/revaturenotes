@@ -89,7 +89,7 @@ A mule application can consist of a signle flow or break up processing into disc
 
 - Development: define technical requirements (methods, protocols, access, scalability, operations, hosting, etc)
 
-- Operations: release your MVP, foster a user-base, fix, re-fix
+- Operations: release your Minimal Viable Product, foster a user-base, fix, re-fix
 
 - Retirement: deprecation of the API, can be due to limited use, outdated plugins, lack of support, security concerns, etc.
 
